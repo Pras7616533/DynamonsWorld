@@ -1,0 +1,11 @@
+TYPE.fire.strong.grass, electric.week.water, dark
+type.grass.strong.electric, water.week.dark, fire
+type.electric.strong.water, dark.week.fire, grass
+type.water.strong.dark, fire.week.grass, electric
+type.dark.strong.fire, grass.week.electric, water
+attack.normal.confuse.con attack
+attack.fire.volcano.vol attack
+attack.grass.rainbow beam.beam attack
+attack.electric.sparks.spark attack
+attack.water.iceberg.water attack
+attack.dark.dark beam.dark enrgy deals damage, extra strong against enemies with hypno
